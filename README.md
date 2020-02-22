@@ -1,7 +1,7 @@
 # Gary nguyen
 # Meteorology Instrument 
 ## A) Link To the Code file: 
-[The Code](https://colab.research.google.com/drive/1guAe46VcQlW9cUdzwsCmEUx03yDrmLuo)
+[The Code](https://colab.research.google.com/drive/1McaI9NyAp2Y94GeeBPkANeWrEnMDGMHQ)
 ## B) Introduction:
 For this project, we will analyze the wind speed and rain rate in one year at two different Meteorology Instrument located at Oregon. From data collected, Cross correlation analysis method is used to determind the relationship between rain and wind at both location.
 ### Problem
