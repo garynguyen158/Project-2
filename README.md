@@ -48,10 +48,25 @@ Figure 9: Average Rain Rate of Offshore
 8) From the average plots of rain rate and wind speed.
 
 •Which month had the highest rain rate? Which month had the lowest rain rate? 
-> At shelf, maximun rain rate is at February and minimun is at August
-> At Offshore, maximun rain rate is at December and minimun is at July
-•Which month had the highest wind speed? Which month had the lowest wind speed?
-> At shelf, maximun wind speed is at January and minimun is at August
-> At Offshore, maximun wind speed is at October and minimun is at September
-•What pattern do you see? Explain
 
+
+> At shelf, maximun rain rate is at February and minimun is at August
+
+
+> At Offshore, maximun rain rate is at December and minimun is at July
+
+
+•Which month had the highest wind speed? Which month had the lowest wind speed?
+
+
+> At shelf, maximun wind speed is at January and minimun is at August
+
+
+> At Offshore, maximun wind speed is at October and minimun is at September
+
+
+
+
+## D) Reference:
+Source: https://oceanobservatories.org/instrument-series/metbka/
+Correlation: https://currents.soest.hawaii.edu/ocn_data_analysis/_static/SEM_EDOF.html
