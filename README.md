@@ -67,6 +67,6 @@ Figure 9: Average Rain Rate of Offshore
 
 
 
-## D) Reference:
+## E) Reference:
 Source: https://oceanobservatories.org/instrument-series/metbka/
 Correlation: https://currents.soest.hawaii.edu/ocn_data_analysis/_static/SEM_EDOF.html
