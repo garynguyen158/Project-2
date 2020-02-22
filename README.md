@@ -10,7 +10,7 @@ Figure 1: Problem
 ## C) Results:
 ### 1.Rain Rate and Wind Speed in one Year
 #### Oregon Shelf Surface Mooring
-![](Photo/RWShelf.jpg)
+![](Photo/RWshelf.jpg)
 Figure 2: Rain Rate and Wind Speed vs Time of Shelf
 #### Oregon Offshore Surface Mooring
 ![](Photo/RWOffshore.jpg)
